@@ -113,8 +113,4 @@ A testbench demonstrating correct functionality
 
 A simulation verifying your RAM behavior
 
-Internship completion certificate from CODTECH
-
-
-
 ---
