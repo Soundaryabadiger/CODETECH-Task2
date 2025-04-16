@@ -4,7 +4,7 @@ Company - CODETECH IT SOLUTIONS
 ID - CT04WM61
 Domain -VLSI
 Duration -March 18th,2025 to April 18th,2025
-Mentor - Vaishali
+Mentor - Neela Santosh Kumar
 
 Here's an overview for developing a simple synchronous RAM module with read and write operations, suitable for an internship project submission like the one from CODTECH:
 
